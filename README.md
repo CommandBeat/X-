@@ -22,5 +22,6 @@ hi = 1 + 1
 ```
 I know it's not much but it's a *Work In Developement(WIP)*
 
-2. Type in your console, run {your project name}.xminus  
+2. Type in your console, run {your project name}.xminus
+
 That's all you need to do!
